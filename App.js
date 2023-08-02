@@ -13,7 +13,7 @@ import RootStack from './src/navigation/RootStack';
 const client = new ApolloClient({
   uri: 'https://myctrstore.myshopify.com/api/graphql',
   headers: {
-    'X-Shopify-Storefront-Access-Token': 'e7fd5e100bcd4362a118703868588817',
+    'X-Shopify-Storefront-Access-Token': 'X-SHOPIFY-STOREFRONT-ACCESS-TOKEN',
   },
   cache: new InMemoryCache(),
 });
