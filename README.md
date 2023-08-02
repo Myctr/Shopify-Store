@@ -1,1 +1,1 @@
-# myctr-store
+Shopify Store Front Application
